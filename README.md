@@ -7,7 +7,7 @@ discord.js@11
 
 
 **On spot ![image](https://user-images.githubusercontent.com/96370998/147854021-323c237c-6c3b-4fb6-bc77-b110346d3041.png) enter your channel id where you want to bot trigger/respond.
-And put token at end of code. // client.login("your-token-here");
+And put token at end of code. // client.login("your-token-here");**
 
 
 I suggest you to use this on your alt account because it can get disabled or rate limited.
